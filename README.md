@@ -16,7 +16,7 @@ This project focuses on analyzing customer loan behavior using Power BI to ident
 
 - **Power BI**: For dashboard creation, interactive visualizations, and DAX calculations.  
 - **SQL** (if used): For any data preprocessing and filtering (optional).  
-- **Excel**: Initial data inspection and cleaning (if applicable).
+- **Excel**: Initial data inspection and cleaning
 
 ---
 
